@@ -169,5 +169,23 @@
     "phone": "051-892-9706",
     "email": "k4s5m6@nate.com",
     "note": "재직중"
+  },
+  {
+    "company": "신규",
+    "office_address": "신규",
+    "contact_person": "신규",
+    "position": "신규",
+    "phone": "신규",
+    "email": "신규",
+    "note": "신규"
+  },
+  {
+    "company": "",
+    "office_address": "",
+    "contact_person": "",
+    "position": "",
+    "phone": "",
+    "email": "",
+    "note": ""
   }
 ]
