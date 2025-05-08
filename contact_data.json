@@ -175,8 +175,17 @@
     "office_address": "신규",
     "contact_person": "신규",
     "position": "신규",
-    "phone": "이유은",
+    "phone": "신규",
     "email": "신규",
     "note": "신규"
+  },
+  {
+    "company": "ㅇㄻㄴㄹㅇㅁㄴㄻㄴ",
+    "office_address": "ㅁㄴㅇㄹㄴㅁㅇㄹㄴㅁㅇㄹㄴㅁ",
+    "contact_person": "ㄴㅁㅇㄻㄴㅇㄹㅇㄴㅁ",
+    "position": "xcZczczXcZ",
+    "phone": "XvXvZXv",
+    "email": "",
+    "note": ""
   }
 ]
