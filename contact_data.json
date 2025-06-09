@@ -340,5 +340,14 @@
     "phone": "",
     "email": "",
     "note": "배우진 부장"
+  },
+  {
+    "company": "동현회계법인",
+    "office_address": "",
+    "contact_person": "박민수",
+    "position": "상무",
+    "phone": "010-2084-8679",
+    "email": "minsupark@dohy.co.kr",
+    "note": ""
   }
 ]
