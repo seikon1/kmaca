@@ -195,7 +195,7 @@
     "position": "대표이사",
     "phone": "",
     "email": "",
-    "note": ""
+    "note": "김현재 대표이사"
   },
   {
     "company": "한라상조㈜",
@@ -213,7 +213,7 @@
     "position": "대표이사",
     "phone": "",
     "email": "",
-    "note": ""
+    "note": "이종흥 대표이사\n"
   },
   {
     "company": "다나상조㈜",
@@ -222,7 +222,7 @@
     "position": "대표",
     "phone": "",
     "email": "",
-    "note": ""
+    "note": "최영진 부장\n"
   },
   {
     "company": "㈜제이케이",
@@ -231,7 +231,7 @@
     "position": "대표",
     "phone": "",
     "email": "",
-    "note": ""
+    "note": "위성곤 부장\n"
   },
   {
     "company": "더리본㈜",
@@ -240,7 +240,7 @@
     "position": "대표",
     "phone": "",
     "email": "",
-    "note": ""
+    "note": "김상철 상무"
   },
   {
     "company": "보람상조라이프㈜",
@@ -249,48 +249,48 @@
     "position": "대표이사",
     "phone": "",
     "email": "",
-    "note": ""
+    "note": "오준오 대표이사"
   },
   {
     "company": "보람상조개발㈜",
     "office_address": "서울특별시 중구 세종대로 73 태평로빌딩 23층",
-    "contact_person": "이창우",
+    "contact_person": "오준오, 이창우",
     "position": "대표이사",
     "phone": "",
     "email": "",
-    "note": ""
+    "note": "이창우 대표이사"
   },
   {
     "company": "보람상조실로암㈜",
     "office_address": "서울특별시 중구 세종대로 73 태평로빌딩 24층",
-    "contact_person": "김재탁",
-    "position": "부장",
+    "contact_person": "오준오",
+    "position": "대표",
     "phone": "",
     "email": "",
-    "note": ""
+    "note": "김재탁 부장"
   },
   {
     "company": "보람상조피플㈜",
     "office_address": "서울특별시 성동구 광나루로 130, 7층 (성수동 1가, 서울숲아이티캐슬)",
-    "contact_person": "임찬호",
-    "position": "이사",
+    "contact_person": "김충현",
+    "position": "대표",
     "phone": "",
     "email": "",
-    "note": ""
+    "note": "임찬호 이사"
   },
   {
     "company": "현대에스라이프㈜",
     "office_address": "대구광역시 동구 안심로 52(율하동)",
-    "contact_person": "홍진기",
-    "position": "사장",
+    "contact_person": "이진수",
+    "position": "대표",
     "phone": "",
     "email": "",
-    "note": ""
+    "note": "홍진기 사장"
   },
   {
     "company": "제이에이치라이프㈜",
     "office_address": "부산광역시 부산진구 개금온정로 5-0 성원상떼뷰 지하1층",
-    "contact_person": "",
+    "contact_person": "주영남",
     "position": "",
     "phone": "",
     "email": "",
@@ -303,42 +303,42 @@
     "position": "대표이사",
     "phone": "",
     "email": "",
-    "note": ""
+    "note": "박남희 대표이사"
   },
   {
     "company": "㈜유토피아퓨처",
     "office_address": "서울특별시 광진구 광나루로56길 85 사무동 지하1층 04호(구의동, 테크노마트 21)",
-    "contact_person": "임익근",
+    "contact_person": "오준오",
     "position": "대표이사",
     "phone": "",
     "email": "",
-    "note": ""
+    "note": "임익근 대표이사"
   },
   {
     "company": "보람상조애니콜㈜",
     "office_address": "서울특별시 중구 세종대로 73 태평로빌딩 25층",
-    "contact_person": "심재견",
-    "position": "과장",
+    "contact_person": "오준오",
+    "position": "대표이사",
     "phone": "",
     "email": "",
-    "note": ""
+    "note": "심재견 과장\n"
   },
   {
     "company": "보람상조리더스㈜",
     "office_address": "서울특별시 중구 세종대로 73 태평로빌딩 26층",
-    "contact_person": "강부선",
-    "position": "부장",
+    "contact_person": "오준오",
+    "position": "대표이사",
     "phone": "",
     "email": "",
-    "note": ""
+    "note": "강부선 부장"
   },
   {
     "company": "보람상조플러스㈜",
     "office_address": "서울특별시 중구 세종대로 73 태평로빌딩 26층",
-    "contact_person": "배우진",
-    "position": "부장",
+    "contact_person": "오준우",
+    "position": "대표이사",
     "phone": "",
     "email": "",
-    "note": ""
+    "note": "배우진 부장"
   }
 ]
